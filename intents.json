@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good day",
+        "Howdy",
+        "Greetings",
+        "How are you?",
+        "Is anyone there?",
+        "Hey there"
+      ],
+      "responses": [
+        "Hey there! Welcome to our coffee and tea shop. How can I assist you today?",
+        "Hello, thanks for visiting our online store! What can I help you with?",
+        "Hi there! I'm the chatbot assistant for our coffee and tea website. How may I be of service?",
+        "Greetings! I'm here to answer any questions you might have about our products or services."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care",
+        "Catch you later",
+        "Gotta go",
+        "Talk to you later"
+      ],
+      "responses": [
+        "See you later, thanks for visiting our website! Come back soon.",
+        "Have a wonderful day! Goodbye for now.",
+        "Bye! Come back again soon and let me know if you need any further assistance.",
+        "Take care! Don't hesitate to reach out if you have any other questions."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "Cheers",
+        "I appreciate it",
+        "You've been a great help"
+      ],
+      "responses": [
+        "Happy to help! Let me know if you need anything else.",
+        "Any time! I'm always here to assist you.",
+        "My pleasure! Don't hesitate to ask if you have any other questions.",
+        "I'm glad I could be of assistance. Feel free to reach out again if you need further help."
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "What products do you offer?",
+        "Tell me about your products",
+        "What can I buy from you?",
+        "What items"
+      ],
+      "responses": [
+        "We offer a wide variety of high-quality coffee and tea products. From whole bean and ground coffee to loose leaf and bagged tea, we have something for every coffee and tea lover.",
+        "Our product range includes different coffee blends, single-origin coffees, flavored coffees, black teas, green teas, herbal teas, and more. We also have a selection of tea accessories and brewing equipment.",
+        "We sell a diverse range of coffee and tea products sourced from the finest plantations around the world. Whether you're looking for bold, rich coffees or delicate, aromatic teas, we've got you covered."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "What payment methods do you accept?",
+        "How can I pay for my order?",
+        "How do I pay?",
+        "Payment options?",
+        "Payment?"
+      ],
+      "responses": [
+        "We accept a variety of payment methods for your convenience. You can pay with VISA, Mastercard, American Express, Discover, and Paypal.",
+        "We don't accept cash payments, but you can pay for your order using major credit cards like VISA, Mastercard, American Express, and Discover. Paypal is also an accepted payment method.",
+        "Our payment options include all major credit cards (VISA, Mastercard, American Express, Discover) as well as Paypal. We strive to make the checkout process as smooth and secure as possible."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "How long does it take to receive my order?",
+        "What are your delivery times?",
+        "How fast is your shipping?",
+        "How quickly can I get my order?",
+        "What is the estimated delivery date?",
+        "How long until my package arrives?",
+        "What's the average shipping time?",
+        "How soon can I expect my shipment?",
+        "What are the typical delivery timeframes?",
+        "How many days does it take for delivery?",
+        "How long will it take for my order to be delivered?",
+        "What's the expected delivery window?",
+        "What's the estimated shipping duration?",
+        "How long is the transit time for my order?",
+        "When can I expect to receive my items?",
+        "What are the delivery lead times?",
+        "How far in advance should I place my order for timely delivery?"
+      ],
+      "responses": [
+        "Our standard delivery time is 2-4 business days within the continental United States. For expedited shipping, you can select that option at checkout for faster delivery times.",
+        "Shipping times typically range from 2-4 business days, but may vary depending on your location and the shipping method selected during checkout. We strive to process and ship orders as quickly as possible.",
+        "You can expect to receive your order within 2-4 business days after it has been shipped. Keep in mind that delivery times may be slightly longer for remote or rural areas."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh",
+        "Say something hilarious",
+        "Got any good jokes?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "Why did the coffee file a police report? It got mugged.",
+        "Why did the barista quit their job? The work was too grinding.",
+        "What kind of tea goes well with a bad pun? A 'pun'kin spice tea!"
+      ]
+    }
+  ]
+}
