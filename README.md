@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/S60CrN9iMxFlyp7uM8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chatbot-digitalesmarketing-marketing-S60CrN9iMxFlyp7uM8">via GIPHY</a></p>
+![GIF](https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif)
