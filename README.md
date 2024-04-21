@@ -10,8 +10,4 @@ This is a chatbot created from scratch using NLTK and PyTorch for a coffee selli
 - **Order Coffee**: Users can easily order coffee using the chatbot.
 - **Answer Queries**: The chatbot can answer common questions about the coffee products offered by the website.
 
-## Getting Started
-
-To use the chatbot, you need to have Python installed on your system. You also need to install the required dependencies. You can do this using pip:
-
 
